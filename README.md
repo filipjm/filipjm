@@ -1,7 +1,7 @@
 # 🚀 Phil Juricev
 ```Statistician | Software Engineer | PhD Candidate```
 
-![YouTube Views](https://img.shields.io/youtube/channel/views/UCzc4uR5eeVXOpsNYyXl91Jg)
+<!-- ![YouTube Views](https://img.shields.io/youtube/channel/views/UCzc4uR5eeVXOpsNYyXl91Jg)-->
 ![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzc4uR5eeVXOpsNYyXl91Jg)
 
 <p>
