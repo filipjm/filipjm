@@ -1,5 +1,5 @@
-# 🚀 Phil Juricev
-```Statistician | Software Engineer | PhD Candidate```
+# 🚀 Dr Phil Juricev
+```Statistician - Geospatial Research```
 
 <!-- ![YouTube Views](https://img.shields.io/youtube/channel/views/UCzc4uR5eeVXOpsNYyXl91Jg)-->
 ![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzc4uR5eeVXOpsNYyXl91Jg)
@@ -21,17 +21,13 @@ My primary research focus is on statistical regionalisation, with a particular i
 I am currently working on developing an algorithm that performs spatial statistical rezoning to create regions that facilitate unbiased analysis. The first version of this algorithm has been published in the International Journal of Geographical Information Science, under the name [HeLP](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2204347).
 The second iteration involves optimizng the codebase and making it production-ready, as well as working on methodological improvements.
 
-## 🌱 Learning
-
-Looking to expand my knowledge in some areas of pure mathematics, in particular Number Theory, Graph Theory and Point-set Topology.
-
 ## 🤝 Collaboration
 
 I would be super exicted to collaborate on projects involving spatial statistics, GIS or high-performance computing using CUDA.
 
 ## ⚡ Fun Fact
 
-When I am not working on maths or coding, I am an avid fan of muay thai.
+When I am not working on maths or coding, I am competing in powerlifting.
 
 ## 📫 Contact Me
 
