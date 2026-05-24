@@ -1,9 +1,6 @@
 # 🚀 Dr Phil Juricev
 ```Statistician - Geospatial Research```
 
-<!-- ![YouTube Views](https://img.shields.io/youtube/channel/views/UCzc4uR5eeVXOpsNYyXl91Jg)-->
-![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzc4uR5eeVXOpsNYyXl91Jg)
-
 
 ## 🛠️ Tech Stack
 <div style="display: flex; flex-direction: column;">
