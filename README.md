@@ -1,16 +1,18 @@
 # 🚀 Dr Phil Juricev
-```Statistician - Geospatial Research```
+```Software Engineer```</br>
 
+Software Engineer with a PhD and 5 years of experience designing and shipping full-stack systems across data engineering, GIS, and scalable architectures. Proven track record building production-grade software from greenfield, including a B2B SaaS platform scaled to 110+ active weekly users, automated ETL and QA frameworks processing 28M+ records, and GenAI/RAG systems deployed on AWS. Strong background in Python, JavaScript/TypeScript, React, and RESTful API design, with hands-on experience mentoring engineers and driving Agile delivery from prototype to production.
 
 ## 🛠️ Tech Stack
-<div style="display: flex; flex-direction: column;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50px" height="50x"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50px" height="50x"/><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="sql" width="50px" height="50x"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="50px" height="50x"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="50px" height="50x"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50px" height="50x"/><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50px" height="50x"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="50px" height="50x"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="50px" height="50x"/><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="50px" height="50x"/><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="threejs" width="50px" height="50x"/><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="50px" height="50x"/>
-</div>
 
-
-## 🤝 Collaboration
-
-I would be super exicted to collaborate on projects involving computational geography, GIS, and Bayesian spatial modelling.
+![icon-react](https://stats.pphat.top/icons/react?color=%234584B6)
+![icon-javascript](https://stats.pphat.top/icons/javascript?color=%234584B6)
+![icon-tailwindcss](https://stats.pphat.top/icons/tailwindcss?color=%234584B6)
+![icon-python](https://stats.pphat.top/icons/python?color=%234584B6)
+![icon-cpp](https://stats.pphat.top/icons/cplusplus?color=%234584B6)
+![icon-linux](https://stats.pphat.top/icons/linux?color=%234584B6)
+![icon-postgresql](https://stats.pphat.top/icons/postgresql?color=%234584B6)
+![icon-docker](https://stats.pphat.top/icons/docker?color=%234584B6)
 
 ## 📫 Contact Me
 
